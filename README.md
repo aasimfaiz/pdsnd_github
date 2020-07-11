@@ -33,12 +33,16 @@ The Chicago and New York City files also have the following two columns:
 
     Gender
 
+
     Birth Year
+
+Additional File used for Github project 
 
 ### Files used
 The dataset used in the project was provided by Motivate - https://www.motivateco.com/
 
 ### Credits
+
 
 Thank you Udacity for providing the course and the necessary material for me to develop this project.
 
